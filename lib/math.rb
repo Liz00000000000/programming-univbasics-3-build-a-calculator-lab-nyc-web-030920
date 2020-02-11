@@ -24,6 +24,6 @@ return sum
 end
 
 def square_root(num)
-sum = num1 ** num2
+sum = num ** num
 return sum
 end
